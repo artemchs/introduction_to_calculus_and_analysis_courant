@@ -1,10 +1,11 @@
 # Introduction to Calculus and Analysis (Courant)
 
-This repository contains computational experiments for selected exercises from
+This repository contains computational experiments accompanying my study of
 *Introduction to Calculus and Analysis* by Richard Courant and Fritz John.
 
-Rather than the problems printed in the main text, the exercises are taken from
-the companion volume **_Problems in Calculus and Analysis_ by Albert A. Blank**.
+The exercises themselves are not the ones printed in that main text — they are
+taken from the companion volume **_Problems in Calculus and Analysis_ by Albert
+A. Blank**.
 Blank's book was published by John Wiley & Sons (Interscience) in **1966** as the
 official problem supplement to Volume I of Courant & John (1965); it grew out of
 the calculus course at New York University's Courant Institute of Mathematical
